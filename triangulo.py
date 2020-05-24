@@ -30,5 +30,8 @@ if resultado == True:
     print('É um triangulo')
 else:
     print('Não é um triangulo')
+<<<<<<< HEAD
 
 'teste'
+=======
+>>>>>>> 854596d... Removendo teste
